@@ -1,1 +1,1 @@
-# yii2-query-builder
+# yii2-html-query-byilder
