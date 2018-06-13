@@ -1,11 +1,12 @@
 {
-  "name": "mistic100/jquery-querybuilder",
-  "version": "2.4.0",
-  "authors": [{
-    "name": "Damien \"Mistic\" Sorel",
-    "email": "contact@git.strangeplanet.fr",
-    "homepage": "https://www.strangeplanet.fr"
-  }],
+  "name": "galaykosasha/yii2-query-builder",
+  "version": "0.0.1",
+  "authors": [
+      {
+          "name": "Galayko Sasha",
+          "email": "galaykosasha@gmail.com"
+      }
+  ],
   "description": "jQuery plugin for user friendly query/filter creator",
   "require": {
     "robloach/component-installer": "*",
